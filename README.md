@@ -109,7 +109,8 @@ I have a passion for **3D modeling** and enjoy spending my free time **designing
 
 Feel free to **reach out** to me anytime via **email**: [shekharhans161@gmail.com](mailto:shekharhans161@gmail.com) or connect with me on **LinkedIn**, **Instagram**, **Facebook**, or **Twitter**.
 
-[![Hit Count](https://visitcount.itsvg.in/api?id=LordShekharHans&icon=0&color=9)](https://visitcount.itsvg.in)
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
 
 [![Check out my Holopin badges!](https://holopin.me/shekharhans)](https://holopin.io/@shekharhans)
 
