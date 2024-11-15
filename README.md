@@ -23,7 +23,6 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ShekharHans&theme=radical&hide_border=true" alt="LordShekharHans Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShekharHans&theme=radical&hide_border=true" alt="LordShekharHans Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShekharHans&theme=radical&layout=compact&hide_border=true" alt="Top Languages" />
 </div>
 
